@@ -1,0 +1,65 @@
+*{
+	box-sizing: border-box;
+	border: 1px none red;
+}
+
+h1{
+	width:30rem;
+	font-family: "Vladimir Script" ;
+	color: red;
+	word-spacing:2px;
+	font-size: 4rem;
+}
+li{
+	display:inline-block;
+	margin: 10px;
+	font-size:2rem;
+	background-color: green;
+	color: white;
+	font-family: Magneto;
+	cursor: pointer;
+	text-align: center;
+	width:10rem;
+	border-radius: 10px;
+}
+div{
+	display:flex;
+}
+ul{
+	margin: 4rem;
+	width:40rem;
+	text-align: center;
+}
+img{
+	height: 12rem;
+	width: 16rem;
+	margin-top: 4rem;
+}
+.para{
+	margin-left: 1rem;
+	word-spacing: 4px;
+	line-height: 3rem;
+	font-size: 25px;
+	font-family: "Lucida Calligraphy";
+}
+
+body{
+	background-color: rgb(200,200,200);
+}
+h2{
+	margin-left: 1rem;
+	word-spacing: 4px;
+	line-height: 3rem;
+	font-size: 35px;
+	font-family: "Lucida Calligraphy";
+}
+.image{
+	margin-top: 20px;
+}
+.edit{
+	background-color: black;
+}
+
+
+
+
